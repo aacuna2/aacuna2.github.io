@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
-
+title: Welcome to the aacuna2 homepage!
+descripiton: This is the start of something new...
 You can use the [editor on GitHub](https://github.com/aacuna2/aacuna2.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
